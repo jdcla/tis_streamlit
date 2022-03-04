@@ -28,6 +28,7 @@ dependencies:
   - ncurses=6.3=h7f8727e_2
   - numpy-base=1.21.2=py310h79a1101_0
   - openssl=1.1.1m=h7f8727e_0
+  - pip=21.2.4=py310h06a4308_0
   - pytables=3.6.1=py310hadd16c1_1
   - python=3.10.0=h12debd9_5
   - python-dateutil=2.8.2=pyhd3eb1b0_0
@@ -97,7 +98,6 @@ dependencies:
     - pexpect==4.8.0
     - pickleshare==0.7.5
     - pillow==9.0.1
-    - pip==21.2.4
     - prometheus-client==0.13.1
     - prompt-toolkit==3.0.28
     - protobuf==3.19.4
